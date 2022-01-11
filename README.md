@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @0xSardius
 - 👀 I’m interested in bringing more fun and freedom into people's lives with Web3.
 - 🌱 I’m currently learning web3 and smart contract development on all EVM compatible chains.
-- 💞️ I’m looking to collaborate on building dapps on Avalanche. Particularly DeFi and DAO related projects. LFG!
+- 💞️ I’m looking to collaborate on building web3projects on Avalanche. Particularly NFT and DAO related projects. LFG!
 - 📫 How to reach me 0xsardius@gmail.com
 
 <!---
