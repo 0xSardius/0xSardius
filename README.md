@@ -1,6 +1,6 @@
 - 🌅 gm, I’m @0xSardius
-- 👀 I’m interested in using web3 technology to build DAO Tooling, NFTs, and ReFi products that fuse on vs. off-chain data
-- 🌱 I’m learning hybrid smart contract development with Chainlink, ThirdWeb and Moralis to build dApp MVPs fast
+- 👀 I’m interested in using web3 technology to build smart contract powered business models that regenerate communities, businesses, and organizations
+- 🌱 I’m learning hybrid smart contract development, focusing on Chainlink and Thirdweb
 - 💞️ I’m looking to collaborate on building innovative web3 product and dApps
 - 📫Reach me @ 0xsardius@gmail.com
 
