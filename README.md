@@ -1,8 +1,8 @@
 - 🌅 gm, I’m @0xSardius
-- 👀 I’m interested in using web3 technology to build smart contract powered business models that regenerate communities, businesses, and organizations
-- 🌱 I’m learning Python and web3 data analytics
-- 💞️ I’m looking to collaborate on building innovative web3 product and dApps
-- 📫Reach me @ 0xsardius@gmail.com
+- interested in buidling onchain dApps that regenerate communities, businesses, and organizations
+- learning best practices to make the highest quality dApps and smart contract systems
+- looking to collaborate on building innovative web3 product and dApps
+- reach me @ 0xsardius@gmail.com or on Twitter @0xSardius
 
 <!---
 0xSardius/0xSardius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
