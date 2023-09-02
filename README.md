@@ -1,7 +1,7 @@
 - 🌅 gm, I’m @0xSardius
 - interested in buidling onchain dApps that regenerate communities, businesses, and organizations
-- learning best practices to make the highest quality dApps and smart contract systems
-- looking to collaborate on building innovative web3 product and dApps
+- learning best practices to make the highest quality dApps and smart contract based systems
+- looking to collaborate on building innovative web3 products and dApps
 - reach me @ 0xsardius@gmail.com or on Twitter @0xSardius
 
 <!---
