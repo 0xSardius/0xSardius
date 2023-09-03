@@ -1,4 +1,4 @@
-- 🌅 gm I’m @0xSardius
+- 🌅 gm I’m sardius
 - interested in buidling onchain dApps that regenerate communities, businesses, and organizations
 - learning best practices to make the highest quality dApps and smart contract based systems
 - looking to collaborate on building innovative web3 products and dApps
