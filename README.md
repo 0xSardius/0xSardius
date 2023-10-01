@@ -1,5 +1,5 @@
 - 🌅 gm I’m sardius
-- interested in buidling onchain dApps that regenerate communities, businesses, and organizations
+- I help my clients build, launch, and improve web3 decentralized applications (dApps)
 - learning best practices to make the highest quality dApps and smart contract based systems
 - looking to collaborate on building innovative web3 products and dApps
 - check out my https://linktr.ee/sardius
