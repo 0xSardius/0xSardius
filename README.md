@@ -1,7 +1,7 @@
 - 🌅 gm I’m sardius
 - I help my clients build, launch, and improve web3 decentralized applications (dApps)
-- learning best practices to make the highest quality dApps and smart contract based systems
-- looking to collaborate on building innovative web3 products and dApps
+- learning tokenomics and hybrid smart contracts
+- Using Chainlink and Thirdweb
 - check out my https://linktr.ee/sardius
 
 <!---
