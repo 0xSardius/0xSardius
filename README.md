@@ -1,6 +1,6 @@
 - 🌅 gm I’m sardius
 - I help my clients build, launch, and improve web3 decentralized applications (dApps)
-- Exploring RWAs and building smart contract based business models
+- Exploring the intersection between myth and technology
 - Building with Chainlink and Thirdweb
 - check out my https://linktr.ee/sardius
 
