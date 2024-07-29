@@ -1,6 +1,6 @@
 - 🌅 gm I’m sardius
-- I help my clients build, launch, and improve web3 decentralized applications (dApps)
-- Exploring the intersection between myth and technology
+- I help my clients build, launch, and improve onchain apps
+- exploring the intersection between myth and technology
 - building on Base
 - check out my https://linktr.ee/sardius
 
