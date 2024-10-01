@@ -4,7 +4,7 @@
 With over a decade of experience in crypto, I bring a unique blend of skills to the web3 space:
 
 - **Deep Crypto Experience**: 10+ years hands-on experience in the crypto ecosystem, including running a successful mining business for 2+ years
-- **web3 Development Specialist**: Develop innovative onchain apps using industry best practices to ensure quality
+- **web3 Development Specialist**: Develop innovative onchain apps around secure smart contract based business models
 - **onchain Data Analyst**: Utilize Dune and Flipside to harness blockchain data for actionable insights
 - **Lean Six Sigma Practioner**: Use lean six sigma techniques to continuously improve
 
