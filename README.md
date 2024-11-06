@@ -5,19 +5,19 @@ With over a decade of experience in crypto, I bring a unique blend of skills to 
 
 - **Deep Crypto Experience**: 10+ years hands-on experience in the crypto ecosystem, including running a successful mining business for 2+ years
 - **web3 Development Specialist**: Develop innovative onchain apps around secure smart contract based business models
-- **onchain Data Analyst**: Utilize Dune and Flipside to harness blockchain data for actionable insights
+- **onchain Data Analyst**: Utilize Dune and Flipside to harness blockchain data for actionable metrics and insights
 - **Lean Six Sigma Practioner**: Use lean six sigma techniques to continuously improve
 
-I specialize in transforming visionary ideas into tangible, blockchain-based solutions. My passion lies in harnessing the power of crypto to forge new coordination paradigms and address long standing systemic challenges.
+I specialize in helping my clients build, launch and improve onchain apps, transforming visionary ideas into tangible, blockchain-based solutions.
 
-**My mission**: guide you from concept (0) to launch (1), creating impactful onchain apps that fulfill your vision and push the boundaries of what's possible in web3
+**My mission**: guide you from concept (0) to launch (1), creating onchain apps that fulfill your vision and add 10X value to your idea
 
 ## What I Do
-- Help clients build, launch, and improve onchain apps
+- **Help clients build, launch, and improve onchain apps
 - **onchain App Development** - Ideation to launch, frontend integration, and specialize in building quality apps fast on Base using Thirdweb and Chainlink
 - **web3 Consulting**- Strategic planning, technical architecture, and token economics
 - **Data Driven Optimization** - Analytics using onchain data, performance tuning for your onchain app
-- **Bridging Story and Technology** - Conceptual integration between the narrative and archetypes behind your vision
+- **Bridge Story to Technology** - Conceptual integration between the brand story and archetypes behind your vision
 - **Continuous Improvement** - Upgrading strategies for developing onchain apps
 - **Education and Workshops** - Training and blockchain literacy 
 
