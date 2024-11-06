@@ -13,7 +13,6 @@ I specialize in helping my clients build, launch and improve onchain apps, trans
 **My mission**: guide you from concept (0) to launch (1), creating onchain apps that fulfill your vision and add 10X value to your idea
 
 ## What I Do
-- **Help clients build, launch, and improve onchain apps
 - **onchain App Development** - Ideation to launch, frontend integration, and specialize in building quality apps fast on Base using Thirdweb and Chainlink
 - **web3 Consulting**- Strategic planning, technical architecture, and token economics
 - **Data Driven Optimization** - Analytics using onchain data, performance tuning for your onchain app
