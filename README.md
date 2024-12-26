@@ -3,17 +3,17 @@
 ## About Me
 With over a decade of experience in crypto, I bring a unique blend of skills to the web3 space:
 
-- **Deep Crypto Experience**: 10+ years hands-on experience in the crypto ecosystem, including running a successful mining business for 2+ years
-- **web3 Development Specialist**: Develop innovative onchain apps around secure smart contract based business models
+- **Deep Crypto Experience**: 10+ years hands-on experience in the crypto ecosystem, running a successful mining business in 2017-2018, and a web3 consulting business since 2022
+- **web3 Development Specialist**: Develop innovative onchain apps around secure smart contract based business models, on Solana and Ethereum
 - **onchain Data Analyst**: Utilize Dune and Flipside to harness blockchain data for actionable metrics and insights
 - **Lean Six Sigma Practioner**: Use lean six sigma techniques to continuously improve quality delivery over time
 
 I specialize in helping my clients build, launch and improve onchain apps, transforming visionary ideas into tangible, blockchain-based solutions.
 
-**My mission**: guide you from concept (0) to launch (1), creating onchain apps that fulfill your vision and add 10X value to your idea
+**My mission**: Guide you from concept (0) to launch (1), creating onchain apps that fulfill your vision and add 10X value to your idea
 
 ## What I Do
-- **onchain App Development** - Ideation to launch, frontend integration, and specialize in building quality apps fast on Base using Thirdweb and Chainlink
+- **onchain App Development** - Ideation to launch, frontend integration, specializing in building quality onchain app MVPs fast on Solana and Base
 - **web3 Consulting**- Strategic planning, technical architecture, and token economics
 - **Data Driven Optimization** - Analytics using onchain data, performance tuning for your onchain app
 - **Bridge Story to Technology** - Conceptual integration between the brand story and archetypes behind your vision
@@ -27,6 +27,9 @@ I specialize in helping my clients build, launch and improve onchain apps, trans
 ## Tech Stack
 - Solidity
 - Foundry
+- Rust
+- Typescript
+- Anchor
 - Next.JS
 - Tailwind
 - Thirdweb
