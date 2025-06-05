@@ -42,7 +42,7 @@ Linktree: https://linktr.ee/sardius
 Twitter: https://x.com/0xSardius
 
 ## Ready to Build?
-- Contact me now via email or DM me on twitter for a free 30 minute consulting session about making your idea a reality
+- Contact me now via email or DM me on farcaster for a free 30 minute consulting session and start building your onchain product today
 <!---
 0xSardius/0xSardius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
