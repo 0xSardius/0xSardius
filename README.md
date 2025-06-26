@@ -1,7 +1,7 @@
-# 🌅 gm I’m Sardius - web3 Developer and Consultant
+# 🌅 gm I’m Sardius - onchain developer and web3 consultant
 
 ## About Me
-With over a decade of experience in crypto, I bring a unique blend of skills to the web3 space:
+With over a decade of experience in crypto, I bring a unique blend of skills for building onchain products:
 
 - **Deep Crypto Experience**: 10+ years hands-on experience in the crypto ecosystem, running a successful mining business in 2017-2018, and a web3 consulting business since 2022
 - **onchain Development Specialist**: Develop innovative onchain apps around secure smart contract based business models, built on Base
@@ -17,7 +17,7 @@ I specialize in helping my clients build, launch and improve onchain apps, trans
 - **web3 Consulting**- Strategic planning, technical architecture, and token economics
 - **Data Driven Optimization** - Analytics using onchain data, performance tuning for your onchain app
 - **Bridge Story to Technology** - Conceptual integration between the brand story and archetypes behind your vision
-- **Continuous Improvement** - Upgrading strategies for developing onchain apps
+- **Continuous Improvement** - Upgrading strategies for scaling and improving onchain apps
 - **Education and Workshops** - Training and blockchain literacy 
 
 ## Notable Projects
@@ -28,13 +28,13 @@ I specialize in helping my clients build, launch and improve onchain apps, trans
 ## Tech Stack
 - Solidity
 - Foundry
-- Rust
 - Typescript
 - Next.JS
 - Tailwind
 - Thirdweb
 - Chainlink
 - onChainKit
+- Minikit
 
 ## Let's Connect
 email: 0xSardius@gmail.com
