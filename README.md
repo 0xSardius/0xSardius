@@ -41,6 +41,7 @@ I specialize in helping my clients build, launch and improve onchain apps, trans
 ## Let's Connect
 email: 0xSardius@gmail.com
 Linktree: https://linktr.ee/sardius
+Farcaster: https://farcaster.xyz/sardius
 Twitter: https://x.com/0xSardius
 
 ## Ready to Build?
