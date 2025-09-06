@@ -4,22 +4,22 @@
 With over a decade of experience in crypto, I bring a unique blend of skills for building onchain products:
 
 - **Deep Crypto Experience**: 10+ years hands-on experience in crypto. Ran a successful mining business (BTC, LTC, ETH)  in 2017-2018, and a web3 consulting business since 2022
-- **onchain development specialist**: I develop innovative onchain apps utilizing secure smart contract based business models, built on Base
-- **web3 data Analyst**: Utilize Dune to harness blockchain data for tangible outcomes, employing actionable metrics and insights into your app
+- **Onchain app development specialist**: I develop innovative onchain apps utilizing secure smart contract based business models, built on Base
+- **Web3 data Analyst**: Utilize Dune to harness blockchain data for tangible outcomes, employing actionable metrics and insights into your app
 - **Lean Six Sigma Practioner**: Use lean six sigma techniques to continuously improve quality delivery over time
 
 I specialize in helping my clients build, launch and improve onchain apps, transforming visionary ideas into tangible, blockchain-based solutions.
 
-**My mission**: Guide you from concept (0) to launch (1), creating onchain apps that fulfill your vision and add 10X value to your idea
+**My mission**: Guide you from concept (0) to launch (1), creating onchain apps that fulfill your vision and add 10X value to your users
 
 ## What I Do
 - **onchain App Development** - Ideation to launch, frontend integration, specializing in building quality onchain app MVPs fast on Base
 - **Miniapp Development on Farcaster** - Specialize in launching miniapps from idea to market on Farcaster and the Base App
 - **web3 Consulting**- Strategic planning, technical architecture, and token economics
 - **Data Driven Optimization** - Analytics using onchain data, performance tuning for your onchain app
-- **Bridge Story to Technology** - Conceptual integration between the brand story and archetypes behind your vision
+- **Bridge Story to Technology** - Conceptual integration between your vision, the brand story and your product
 - **Continuous Improvement** - Upgrading strategies for scaling and improving onchain apps
-- **Education and Workshops** - Training and blockchain literacy 
+- **Education and Workshops** - Training and blockchain literacy for any skill level
 
 ## Notable Projects
 - 111words (Zora Coinathon Finalist): Daily writing farcaster miniapp that mints tradeable ERC-20s of your work on base
