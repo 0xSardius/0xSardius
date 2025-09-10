@@ -23,6 +23,7 @@ I specialize in helping my clients build, launch and improve onchain apps, trans
 
 ## Notable Projects
 - 111words (Zora Coinathon Finalist): Daily writing farcaster miniapp that mints tradeable ERC-20s of your work on base
+- Alphabet Affirmation: Farcaster miniapp to help kids learn ABCs and build self-confidence
 - Castmark: Farcaster miniapp that lets you save, organize, and share your favorite casts
 - onchain-Astrodice: A fully onchain astrology reading app that helps you answer questions using astrology
 - Vitalia Connect: onchain expert matching and community reputation building platform
