@@ -14,6 +14,7 @@ I specialize in helping my clients build, launch and improve onchain apps, trans
 
 ## What I Do
 - **onchain App Development** - Ideation to launch, frontend integration, specializing in building quality onchain app MVPs fast on Base
+- **onchain Agent Development** - Creating custom AI agents onchain to streamline UX and blockchain interface for all user needs
 - **Miniapp Development on Farcaster** - Specialize in launching miniapps from idea to market on Farcaster and the Base App
 - **web3 Consulting**- Strategic planning, technical architecture, and token economics
 - **Data Driven Optimization** - Analytics using onchain data, performance tuning for your onchain app
