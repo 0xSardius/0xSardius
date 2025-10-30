@@ -1,4 +1,4 @@
-# 🌅 gm I’m Sardius - onchain developer and web3 consultant
+# 🌅 gm I’m Sardius - onchain app developer and web3 consultant
 
 ## About Me
 With over a decade of experience in crypto, I bring a unique blend of skills for building onchain products:
