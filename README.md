@@ -23,6 +23,7 @@ I specialize in helping my clients build, launch and improve onchain apps, trans
 - **Education and Workshops** - Training and blockchain literacy for any skill level
 
 ## Notable Projects
+- Fartree - Linktree for Farcaster, a link and content hub for all your farcaster content
 - 111words (Zora Coinathon Finalist): Daily writing farcaster miniapp that mints tradeable ERC-20s of your work on base
 - Alphabet Affirmation: Farcaster miniapp to help kids learn ABCs and build self-confidence
 - Castmark: Farcaster miniapp that lets you save, organize, and share your favorite casts
