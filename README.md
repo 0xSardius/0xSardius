@@ -41,6 +41,8 @@ I specialize in helping my clients build, launch and improve onchain apps, trans
 - onChainKit
 - Minikit
 - Neynar
+- Vercel AI SDK
+- ElizaOS
 
 ## Let's Connect
 email: 0xSardius@gmail.com
