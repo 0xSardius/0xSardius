@@ -1,9 +1,12 @@
 # 🌅 gm I’m Sardius - onchain app developer and web3 consultant
 
+**v0 Ambassador** | Building at the intersection of AI + onchain
+
 ## About Me
 With over a decade of experience in crypto, I bring a unique blend of skills for building onchain products:
 
 - **Deep Crypto Experience**: 10+ years hands-on experience in crypto. Ran a successful mining business (BTC, LTC, ETH)  in 2017-2018, and a web3 consulting business since 2022
+- **v0 Ambassador**: Selected to demonstrate rapid prototyping of onchain agentic products using v0 and the Vercel AI SDK
 - **Onchain app development specialist**: I develop innovative onchain apps utilizing secure smart contract based business models, built on Base
 - **Web3 data Analyst**: Utilize Dune to harness blockchain data for tangible outcomes, employing actionable metrics and insights into your app
 - **Lean Six Sigma Practioner**: Use lean six sigma techniques to continuously improve quality delivery over time
@@ -41,6 +44,7 @@ I specialize in helping my clients build, launch and improve onchain apps, trans
 - onChainKit
 - Minikit
 - Neynar
+- v0
 - Vercel AI SDK
 - ElizaOS
 
