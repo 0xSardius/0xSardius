@@ -1,4 +1,4 @@
-# 🌅 gm I’m Sardius - onchain app developer and web3 consultant
+# 🌅 gm I’m Sardius
 
 Onchain Agentic Specialist | v0 Ambassador | Building AI-powered apps on Base
 
