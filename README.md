@@ -1,61 +1,44 @@
 # 🌅 gm I’m Sardius - onchain app developer and web3 consultant
 
-**v0 Ambassador** | Building at the intersection of AI + onchain
+Onchain Agentic Specialist | v0 Ambassador | Building AI-powered apps on Base
+
+## Currently Building
+- Mindshift - agentic mental health application to help you quit negative thinking and improve your mindset
+- QuestCaster — Gamified quest tracking with AI coaching on Farcaster
 
 ## About Me
-With over a decade of experience in crypto, I bring a unique blend of skills for building onchain products:
+I build AI-powered applications with onchain functionality, specializing in rapid prototyping and shipping products on Base.
 
-- **Deep Crypto Experience**: 10+ years hands-on experience in crypto. Ran a successful mining business (BTC, LTC, ETH)  in 2017-2018, and a web3 consulting business since 2022
-- **v0 Ambassador**: Selected to demonstrate rapid prototyping of onchain agentic products using v0 and the Vercel AI SDK
-- **Onchain app development specialist**: I develop innovative onchain apps utilizing secure smart contract based business models, built on Base
-- **Web3 data Analyst**: Utilize Dune to harness blockchain data for tangible outcomes, employing actionable metrics and insights into your app
-- **Lean Six Sigma Practioner**: Use lean six sigma techniques to continuously improve quality delivery over time
+With over a decade in crypto, from running mining operations (BTC, LTC, ETH) in 2017-2018, to a web3 consulting business (2022-2024), I've developed a practitioner's understanding of what works onchain. As a v0 Ambassador, I demonstrate how to move quickly from idea to deployed product using modern AI tooling.
 
-I specialize in helping my clients build, launch and improve onchain apps, transforming visionary ideas into tangible, blockchain-based solutions.
-
-**My mission**: Guide you from concept (0) to launch (1), creating onchain apps that fulfill your vision and add 10X value to your users
+My background in Lean Six Sigma and program management means I ship with quality, not just speed.
 
 ## What I Do
-- **onchain App Development** - Ideation to launch, frontend integration, specializing in building quality onchain app MVPs fast on Base
-- **onchain Agent Development** - Creating custom AI agents onchain to streamline UX and blockchain interface for all user needs
-- **Miniapp Development on Farcaster** - Specialize in launching miniapps from idea to market on Farcaster and the Base App
-- **web3 Consulting**- Strategic planning, technical architecture, and token economics
-- **Data Driven Optimization** - Analytics using onchain data, performance tuning for your onchain app
-- **Bridge Story to Technology** - Conceptual integration between your vision, the brand story and your product
-- **Continuous Improvement** - Upgrading strategies for scaling and improving onchain apps
-- **Education and Workshops** - Training and blockchain literacy for any skill level
+- **Onchain App Development** — Ideation to launch, specializing in quality MVPs on Base
+- **AI Agent Development** — Custom onchain agents that streamline UX and blockchain interactions
+- **Farcaster Miniapps** — End-to-end development for the Farcaster ecosystem
+- **Web3 Consulting** — Technical architecture, strategic planning, and go-to-market
+- **Data-Driven Optimization** — Analytics and performance tuning using onchain data
 
-## Notable Projects
-- Fartree - Linktree for Farcaster, a link and content hub for all your farcaster content
-- 111words (Zora Coinathon Finalist): Daily writing farcaster miniapp that mints tradeable ERC-20s of your work on base
-- Alphabet Affirmation: Farcaster miniapp to help kids learn ABCs and build self-confidence
-- Castmark: Farcaster miniapp that lets you save, organize, and share your favorite casts
-- onchain-Astrodice: A fully onchain astrology reading app that helps you answer questions using astrology
-- Vitalia Connect: onchain expert matching and community reputation building platform
+## Projects
+- Fartree: Linktree for Farcaster, a hub for all your farcaster content
+- 111words: Daily writing miniapp that mints tradeable ERC-20s of your work on base (_Zora Coinathon Finalist_)
+- Alphabet Affirmation: Miniapp helping kids learn ABCs and build self-confidence
+- Castmark: Save, organize and share your favorite casts
+- onchain-Astrodice: Fully onchain astrology reading app
+- Vitalia Connect: onchain expert matching and community reputation platform
 
 ## Tech Stack
-- Solidity
-- Foundry
-- Typescript
-- Next.JS
-- Tailwind
-- Thirdweb
-- Chainlink
-- onChainKit
-- Minikit
-- Neynar
-- v0
-- Vercel AI SDK
-- ElizaOS
+- **Frontend**: Typescript, Next.Js, Tailwind
+- **Onchain**:  Solidity, Foundry, Thirdweb, OnchainKit, Minikit, Neynar, Chainlink
+- **AI**: Vercel AI SDK, ElizaOS, Coinbase AgentKit
+- **Tools**: v0, Dune Analytics
 
-## Let's Connect
+## Connect
 email: 0xSardius@gmail.com
 Linktree: https://linktr.ee/sardius
 Farcaster: https://farcaster.xyz/sardius
 Twitter: https://x.com/0xSardius
-
-## Ready to Build?
-- Contact me now via email or DM me on farcaster for a free 30 minute consulting session and start building your onchain product today
 <!---
 0xSardius/0xSardius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
