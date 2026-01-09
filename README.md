@@ -4,6 +4,7 @@ Onchain Agentic Specialist | v0 Ambassador | Building AI-powered apps on Base
 
 ## Currently Building
 - Mindshift - agentic mental health application to help you quit negative thinking and improve your mindset
+- Mathchamp - Master math for grades K-5, one quest at a time
 - QuestCaster — Gamified quest tracking with AI coaching on Farcaster
 
 ## About Me
