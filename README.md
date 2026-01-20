@@ -1,11 +1,10 @@
 # 🌅 gm I’m Sardius
 
-Onchain Agentic Specialist | v0 Ambassador | Building AI-powered apps on Base
+Onchain App Dev | Agentic Specialist | v0 Ambassador | Building AI-powered apps on Base
 
 ## Currently Building
-- Mindshift - agentic mental health application to help you quit negative thinking and improve your mindset
+- Polaris - AI coach to help you meet your highest goals, based on the Harada method
 - Mathchamp - Master math for grades K-5, one quest at a time
-- QuestCaster — Gamified quest tracking with AI coaching on Farcaster
 
 ## About Me
 I build AI-powered applications with onchain functionality, specializing in rapid prototyping and shipping products on Base.
@@ -22,6 +21,7 @@ My background in Lean Six Sigma and program management means I ship with quality
 - **Data-Driven Optimization** — Analytics and performance tuning using onchain data
 
 ## Projects
+- Mindshift - agentic mental health application to transform your inner critic into your biggest ally
 - Fartree: Linktree for Farcaster, a hub for all your farcaster content
 - 111words: Daily writing miniapp that mints tradeable ERC-20s of your work on base (_Zora Coinathon Finalist_)
 - Alphabet Affirmation: Miniapp helping kids learn ABCs and build self-confidence
