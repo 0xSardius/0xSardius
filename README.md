@@ -4,6 +4,7 @@ Onchain App Dev | Agentic Specialist | v0 Ambassador | Building AI-powered apps 
 
 ## Currently Building
 - Polaris - AI coach to help you meet your highest goals, based on the Harada method
+- onchain-Astrodice Miniapp - Astrology app that provides AI-assisted readings to your deepest questions, minted as collectibles, now on Farcaster as a miniapp
 - Mathchamp - Master math for grades K-5, one quest at a time
 
 ## About Me
