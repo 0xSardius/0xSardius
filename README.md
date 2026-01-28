@@ -12,7 +12,7 @@ I build AI-powered applications with onchain functionality, specializing in rapi
 
 With over a decade in crypto, from running mining operations (BTC, LTC, ETH) in 2017-2018, to a web3 consulting business (2022-2024), I've developed a practitioner's understanding of what works onchain. As a v0 Ambassador, I demonstrate how to move quickly from idea to deployed product using modern AI tooling.
 
-My background in Lean Six Sigma and program management means I ship with quality, not just speed.
+My background in Lean Six Sigma and program management lends me a focus on continuous improvement to ensure quality evolves with user needs over time.
 
 ## What I Do
 - **Onchain App Development** — Ideation to launch, specializing in quality MVPs on Base
