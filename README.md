@@ -1,6 +1,6 @@
 # 🌅 gm I’m Sardius
 
-Onchain App Dev | Agentic Specialist | v0 Ambassador | Building AI-powered apps on Base
+Onchain App Dev | Agentic Specialist | v0 Ambassador | Building AI-powered apps on EVM
 
 ## Currently Building
 - Polaris - AI coach to help you meet your highest goals, based on the Harada method
@@ -10,9 +10,7 @@ Onchain App Dev | Agentic Specialist | v0 Ambassador | Building AI-powered apps 
 ## About Me
 I build AI-powered applications with onchain functionality, specializing in rapid prototyping and shipping products on Base.
 
-With over a decade in crypto, from running mining operations (BTC, LTC, ETH) in 2017-2018, to a web3 consulting business (2022-2024), I've developed a practitioner's understanding of what works onchain. As a v0 Ambassador, I demonstrate how to move quickly from idea to deployed product using modern AI tooling.
-
-My background in Lean Six Sigma and program management lends me a focus on continuous improvement to ensure quality evolves with user needs over time.
+With over a decade in crypto, from running mining operations (BTC, LTC, ETH) in 2017-2018, to a web3 consulting business (2022-), I know what works and how to innovate onchain. As a v0 Ambassador, I demonstrate how to move quickly from idea to deployed product using modern AI tooling. I prize velocity, quality, and delivering continuous improvement to my clients and in my own products.
 
 ## What I Do
 - **Onchain App Development** — Ideation to launch, specializing in quality MVPs on Base
