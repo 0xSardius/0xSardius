@@ -1,6 +1,6 @@
 # 🌅 gm I’m Sardius
 
-Onchain App Dev | Agentic Specialist | v0 Ambassador | Building AI-powered apps on EVM
+Fullstack onchain App Dev | Agentic Specialist | v0 Ambassador | Building AI-powered apps on EVM
 
 ## Currently Building
 - Polaris - AI coach to help you meet your highest goals, based on the Harada method
