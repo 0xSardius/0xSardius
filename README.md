@@ -3,9 +3,8 @@
 Fullstack Onchain App Dev | AI Engineer | v0 Ambassador | Building Onchain Agentic Products
 
 ## Currently Building
-- Polaris - AI coach to help you meet your highest goals, based on the Harada method
-- onchain-Astrodice Miniapp - Astrology app that provides AI-assisted readings to your deepest questions, minted as collectibles, now on Farcaster as a miniapp
-- Mathchamp - Master math for grades K-5, one quest at a time
+- Tidal - AI yield manager, manage all your DeFi needs, all through natural language
+- Polaris - AI coach to help you meet your chief goal, based on the Harada method
 
 ## About Me
 I build AI-powered applications with onchain functionality, specializing in rapid prototyping and shipping products on Base.
@@ -25,7 +24,7 @@ With over a decade in crypto, from running mining operations (BTC, LTC, ETH) in 
 - 111words: Daily writing miniapp that mints tradeable ERC-20s of your work on base (_Zora Coinathon Finalist_)
 - Alphabet Affirmation: Miniapp helping kids learn ABCs and build self-confidence
 - Castmark: Save, organize and share your favorite casts
-- onchain-Astrodice: Fully onchain astrology reading app
+- onchain-Astrodice: Fully onchain astrology reading app, now available as a miniapp on Farcaster
 - Vitalia Connect: onchain expert matching and community reputation platform
 
 ## Tech Stack
