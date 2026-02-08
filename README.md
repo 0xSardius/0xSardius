@@ -5,6 +5,8 @@ Fullstack Onchain App Dev | AI Engineer | v0 Ambassador | Building Onchain Agent
 ## Currently Building
 - Tidal - AI yield manager, manage all your DeFi needs, all through natural language
 - Polaris - AI coach to help you meet your chief goal, based on the Harada method
+- Parallax - x402 orchestration agent
+- Janus - Flaunch sentiment creative iteration token agent
 
 ## About Me
 I build AI-powered applications with onchain functionality, specializing in rapid prototyping and shipping products on Base.
