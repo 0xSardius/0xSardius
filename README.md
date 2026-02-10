@@ -21,6 +21,7 @@ With over a decade in crypto, from running mining operations (BTC, LTC, ETH) in 
 - **Data-Driven Optimization** — Analytics and performance tuning using onchain data
 
 ## Projects
+- Tidal - AI yield manager, manage all your DeFi needs, all through natural language. Planning autonomous agent yield manager expansion
 - Mindshift - agentic mental health application to transform your inner critic into your biggest ally
 - Fartree: Linktree for Farcaster, a hub for all your farcaster content
 - 111words: Daily writing miniapp that mints tradeable ERC-20s of your work on base (_Zora Coinathon Finalist_)
