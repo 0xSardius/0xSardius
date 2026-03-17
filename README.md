@@ -4,9 +4,8 @@ Fullstack Onchain App Dev | AI Engineer | v0 Ambassador | Building Onchain Agent
 
 ## Currently Building
 - Tidal - AI yield manager, manage all your DeFi needs, all through natural language
-- Polaris - AI coach to help you meet your chief goal, based on the Harada method
-- Parallax - x402 orchestration agent
-- Janus - Flaunch sentiment creative iteration token agent
+- Cardex - pokemon and MTG card market agent
+- SolEnrich - Solana data enrichment agent, built for agentic commerce. Enhance your data calls for agents or LLMs for a low price using x402
 
 ## About Me
 I build AI-powered applications with onchain functionality, specializing in rapid prototyping, software architecture, and shipping quality products.
@@ -21,6 +20,8 @@ With over a decade in crypto, from running mining operations (BTC, LTC, ETH) in 
 - **Data-Driven Optimization** — Analytics and performance tuning using onchain data
 
 ## Projects
+- Parallax - x402 orchestration agent for Base market data
+- Polaris - AI coach to help you meet your chief goal, based on the Harada method (built for Encode hackathon)
 - Tidal - AI yield manager, manage all your DeFi needs, all through natural language. Planning autonomous agent yield manager expansion
 - Mindshift - agentic mental health application to transform your inner critic into your biggest ally
 - Fartree: Linktree for Farcaster, a hub for all your farcaster content
