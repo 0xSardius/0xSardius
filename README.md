@@ -14,8 +14,7 @@ With over a decade in crypto, from running mining operations (BTC, LTC, ETH) in 
 
 ## What I Do
 - **Onchain App Development** — Ideation to launch, specializing in quality onchain MVPs 
-- **AI Agent Development** — Custom onchain agents that streamline UX and blockchain interactions
-- **Farcaster Miniapps** — End-to-end development for the Farcaster ecosystem
+- **AI Agent Development** — Custom onchain agents that incorporate x402, 8004, A2A and more
 - **Web3 Consulting** — Technical architecture, strategic planning, and go-to-market
 - **Data-Driven Optimization** — Analytics and performance tuning using onchain data
 
