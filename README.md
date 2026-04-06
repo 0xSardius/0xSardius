@@ -33,9 +33,9 @@ With over a decade in crypto, from running mining operations (BTC, LTC, ETH) in 
 
 ## Tech Stack
 - **Frontend**: Typescript, Next.Js, Tailwind
-- **Onchain**:  Solidity, Foundry, Thirdweb, OnchainKit, Minikit, Neynar, Chainlink
-- **AI**: Vercel AI SDK, ElizaOS, Coinbase AgentKit
-- **Tools**: v0, Dune Analytics
+- **Onchain**:  Solidity, Foundry, Thirdweb, OnchainKit, Minikit, Neynar, Chainlink, Anchor
+- **AI**: Vercel AI SDK, Claude ADK, Lucid Daydreams, ElizaOS, Coinbase AgentKit
+- **Tools**: Claude Code, v0, Dune Analytics
 
 ## Connect
 email: 0xSardius@gmail.com
