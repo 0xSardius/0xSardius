@@ -4,7 +4,7 @@ Fullstack Onchain App Dev | AI Engineer | v0 Ambassador | Building Onchain Agent
 
 ## Currently Building
 - SolEnrich - Solana data enrichment agent, built for agentic commerce. Enhance your data calls for agents or LLMs for a low price using x402 (live in the Bags Hackathon)
-- Tidal - AI yield manager, manage all your DeFi needs, all through natural language
+- Tidal - AI yield manager and Defi visual canvas, manage all your DeFi needs, all through natural language
 - Cardex - pokemon and MTG card market agent
 
 
