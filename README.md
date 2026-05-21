@@ -9,9 +9,9 @@ Fullstack Onchain App Dev | AI Engineer | v0 Ambassador | Building Onchain Agent
 
 
 ## About Me
-I build AI-powered applications with onchain functionality, specializing in rapid prototyping, software architecture, and shipping quality products.
+I build onchain agents, specializing in rapid prototyping, software architecture, and shipping quality products with a proven value proposition.
 
-With over a decade in crypto, from running mining operations (BTC, LTC, ETH) in 2017-2018, to a web3 consulting business (2022-), I know what works and how to innovate onchain. As a v0 Ambassador, I demonstrate how to move quickly from idea to deployed product using modern AI tooling. I prize velocity, quality, and delivering continuous improvement to my clients and in my own products.
+With over a decade in crypto, from running mining operations (BTC, LTC, ETH) in 2017-2018, running DAO operations (2020-2021), onchain data analyics (2020-2022) to a web3 consulting business (2022-), and now pulling everything together building onchain agents, I know what works and how to innovate onchain. As a v0 Ambassador, I demonstrate how to move quickly from idea to deployed product using modern AI tooling. I prize velocity, quality, and delivering continuous improvement to my clients and in my own products.
 
 ## What I Do
 - **Onchain App Development** — Ideation to launch, specializing in quality onchain MVPs 
