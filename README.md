@@ -20,6 +20,7 @@ With over a decade in crypto, from running mining operations (BTC, LTC, ETH) in 
 - **Data-Driven Optimization** — Analytics and performance tuning using onchain data
 
 ## Projects
+- SolEnrich - Solana data enrichment agent, built for agentic commerce. Enhance your data calls for agents or LLMs for a low price using x402 (live in the Bags Hackathon)
 - Parallax - x402 orchestration agent for Base market data
 - Polaris - AI coach to help you meet your chief goal, based on the Harada method (built for Encode hackathon)
 - Tidal - AI yield manager, manage all your DeFi needs, all through natural language. Planning autonomous agent yield manager expansion
