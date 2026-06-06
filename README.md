@@ -4,7 +4,7 @@ Fullstack Onchain App Dev | AI Engineer | v0 Ambassador | Building Onchain Agent
 
 ## Currently Building
 - SolEnrich - Solana data enrichment agent, built for agentic commerce. Enhance your data calls for agents or LLMs for a low price using x402 (live in the Bags Hackathon)
-- Tidal - AI yield manager and Defi visual canvas, manage all your DeFi needs, all through natural language
+- Tidal-Finance - AI yield manager and Defi visual canvas, manage all your DeFi needs, all through natural language
 - Cardex - pokemon and MTG card market agent
 
 
@@ -23,7 +23,7 @@ With over a decade in crypto, from running mining operations (BTC, LTC, ETH) in 
 - SolEnrich - Solana data enrichment agent, built for agentic commerce. Enhance your data calls for agents or LLMs for a low price using x402 (live in the Bags Hackathon)
 - Parallax - x402 orchestration agent for Base market data
 - Polaris - AI coach to help you meet your chief goal, based on the Harada method (built for Encode hackathon)
-- Tidal - AI yield manager, manage all your DeFi needs, all through natural language. Planning autonomous agent yield manager expansion
+- Tidal-Finance - AI yield manager and DeFi visual canvas. Manage complex defi flows visually and with natural language to get the best yield across protocols
 - Mindshift - agentic mental health application to transform your inner critic into your biggest ally
 - Fartree: Linktree for Farcaster, a hub for all your farcaster content
 - 111words: Daily writing miniapp that mints tradeable ERC-20s of your work on base (_Zora Coinathon Finalist_)
