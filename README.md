@@ -33,7 +33,7 @@ With over a decade in crypto, from running mining operations (BTC, LTC, ETH) in 
 
 ## Tech Stack
 - **Frontend**: Typescript, Next.Js, Tailwind
-- **Onchain**:  Solidity, Foundry, Thirdweb, OnchainKit, Minikit, Neynar, Chainlink, Anchor
+- **Onchain**:  Solidity, Rust, Anchor, Foundry, Thirdweb, OnchainKit, Minikit, Neynar, Chainlink, Coinbase CDP
 - **AI**: Vercel AI SDK, Claude ADK, Lucid Daydreams, ElizaOS, Coinbase AgentKit
 - **Tools**: Claude Code, v0, Dune Analytics
 
