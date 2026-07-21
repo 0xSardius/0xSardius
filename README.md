@@ -15,9 +15,10 @@ With over a decade in crypto, from running mining operations (BTC, LTC, ETH) in 
 ## What I Do
 - **Onchain App Development** — Ideation to launch, specializing in quality onchain MVPs 
 - **AI Agent Development** — Custom onchain agents that incorporate x402, 8004, A2A and more
-- **Web3 Consulting** — Technical architecture, strategic planning, and go-to-market
+- **Full-Stack Onchain Product Consulting** — Technical architecture, strategic planning, and go-to-market
 - **Data-Driven Optimization** — Analytics and performance tuning using onchain data
-
+- **Digital Asset Consulting** - Compliance with state and federal regs
+  
 ## Projects
 - SolEnrich - Solana data enrichment agent, built for agentic commerce. Enhance your data calls for agents or LLMs for a low price using x402 (live in the Bags Hackathon)
 - Parallax - x402 orchestration agent for Base market data
