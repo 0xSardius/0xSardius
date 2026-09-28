@@ -4,6 +4,7 @@ Fullstack Onchain App Dev | AI Engineer | v0 Ambassador | Building Onchain Agent
 
 ## Currently Building
 - SolEnrich - Solana data enrichment agent, built for agentic commerce. Enhance your data calls for agents or LLMs for a low price using x402 (live in the Bags Hackathon)
+- StonkLedger - turn any holder reward stream into a stock drip at the click of a button. View any wallets stonk holdings. Stocklana hackathon submission 
 - Packpull - memecoin gacha and discovery on Solana
 - Cardex - pokemon and digital collectible gacha agent on Solana
 
