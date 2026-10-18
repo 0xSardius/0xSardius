@@ -21,6 +21,7 @@ With over a decade in crypto, from running mining operations (BTC, LTC, ETH) in 
 - **Digital Asset Consulting** - Compliance with state and federal regs
   
 ## Projects
+- Rug Royale - onchain trading duels for StonkFun tokens, capstone for Turbin3 builder's program
 - FeeSweep - instantly view and claim fees across Solana launchpads
 - SolEnrich - Solana data enrichment agent, built for agentic commerce. Enhance your data calls for agents or LLMs for a low price using x402 (live in the Bags Hackathon)
 - Parallax - x402 orchestration agent for Base market data
