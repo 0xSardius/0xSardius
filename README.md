@@ -4,9 +4,7 @@ Fullstack Onchain App Dev | AI Engineer | v0 Ambassador | Building Onchain Agent
 
 ## Currently Building
 - SolEnrich - Solana data enrichment agent, built for agentic commerce. Enhance your data calls for agents or LLMs for a low price using x402 (live in the Bags Hackathon)
-- StonkLedger - turn any holder reward stream into a stock drip at the click of a button. View any wallets stonk holdings. Stocklana hackathon submission 
-- Packpull - memecoin gacha and discovery on Solana
-- Cardex - pokemon and digital collectible gacha agent on Solana
+- Rug Royale - onchain trading duels for StonkFun tokens, capstone for Turbin3 builder's program
 
 ## About Me
 I build onchain agents and fullstack onchain apps, specializing in rapid prototyping, software architecture, and shipping quality products with a proven value proposition.
@@ -21,7 +19,9 @@ With over a decade in crypto, from running mining operations (BTC, LTC, ETH) in 
 - **Digital Asset Consulting** - Compliance with state and federal regs
   
 ## Projects
-- Rug Royale - onchain trading duels for StonkFun tokens, capstone for Turbin3 builder's program
+- StonkLedger - turn any holder reward stream into a stock drip at the click of a button. View any wallets stonk holdings. Stocklana hackathon submission 
+- Packpull - memecoin gacha and discovery on Solana
+- Cardex - pokemon and digital collectible gacha agent on Solana
 - FeeSweep - instantly view and claim fees across Solana launchpads
 - SolEnrich - Solana data enrichment agent, built for agentic commerce. Enhance your data calls for agents or LLMs for a low price using x402 (live in the Bags Hackathon)
 - Parallax - x402 orchestration agent for Base market data
