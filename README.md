@@ -3,8 +3,9 @@
 Fullstack Onchain App Dev | AI Engineer | v0 Ambassador | Building Onchain Agentic Products
 
 ## Currently Building
-- SolEnrich - Solana data enrichment agent, built for agentic commerce. Enhance your data calls for agents or LLMs for a low price using x402 (live in the Bags Hackathon)
+- SolEnrich - Solana data enrichment agent, built for agentic commerce. Enhance your data calls for agents or LLMs for a low price using x402 (live in Colosseum World's Fair)
 - Rug Royale - onchain trading duels for StonkFun tokens, capstone for Turbin3 builder's program
+- Permitr - Check whether any x402 stablecoin payment is supported by the GENIUS act, automated audit reports for compliance and agents
 
 ## About Me
 I build onchain agents and fullstack onchain apps, specializing in rapid prototyping, software architecture, and shipping quality products with a proven value proposition.
